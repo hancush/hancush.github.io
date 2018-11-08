@@ -1,7 +1,12 @@
 body {
-	background-color: #fdf861;
+	background-color: #7F0029;
 }
 
 a {
     font-weight: 700;
+}
+
+.em {
+    height: 1em;
+    width: 1em;
 }
